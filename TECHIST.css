@@ -229,3 +229,6 @@ h1{
  margin-left: 80px;
  margin-top: 1vh;
  }
+ .head2 #link a:hover{
+  color: #5953f8;
+ }
